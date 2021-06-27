@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="framework:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/framework_jar</output-path>
+    <root id="archive" name="framework.jar">
+      <element id="module-output" name="framework" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/javassist/javassist/3.26.0-GA/javassist-3.26.0-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.8.0-M1/junit-platform-commons-1.8.0-M1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.1/apiguardian-api-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/reflections/reflections/0.9.12/reflections-0.9.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
